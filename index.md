@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-Welcome to my homepage! I am a person totally made up for the course 'Command line tools fot linguists' taught at the 
+Welcome to my homepage! I am a person totally made up for the course [Command line tools for linguists](https://courses.helsinki.fi/fi/kik-lg219/129824412) taught at the 
 University of Helsinki, Finland. As I am not real, I may claim that I study creaturology as my major. I specialise in 
 forest demons and fairyfolk. I am currently writing my Master's Thesis on the political conflicts among said species 
 in the national parks of Southern Finland.
