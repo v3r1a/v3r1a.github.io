@@ -34,7 +34,7 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 [Beginner Elvish I](https://courses.helsinki.fi/beginner-elvish-i), spring 2019
 
-[Creaturology Seminar](https://courses.helsinki.fi/), autumn 2019, ongoing
+[Creaturology Seminar](https://courses.helsinki.fi/creaturology-seminar), autumn 2019, ongoing
 
 [Of Mice and Djinn - What Really Happened During the Black Death](https://courses.helsinki.fi/of-mice-and-djinn), autumn 2019
 
