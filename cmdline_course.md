@@ -1,3 +1,4 @@
+
 ---
 layout: default
 ---
@@ -9,4 +10,4 @@ work in a Unix-like environment.
 
 #Week 1: Introduction to Command Line Environments
 
-
+During the first week we learned how to use some of the most basic Unix commands such as mv, cp, cat, cd, wget, 
