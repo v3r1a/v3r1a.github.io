@@ -18,6 +18,8 @@ and the Pope.
 
 ## Contact
 
+[CV - Veria Blizzard](https://v3r1a.github.io/assets/documents/Veria_Blizzard_CV.pdf)
+
 My email address is of the form first_name.last_name@helsinki.fi. 
 
 ## Courses I've Taken
