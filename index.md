@@ -30,9 +30,9 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 [National Parks: Flora, Fauna, and Fairies](https://courses.helsinki.fi/national-park-fairies), spring 2019
 
-[Forest Demons - Not as Devilish as You'd Think](https://courses.helsinki.fi/not-actually-demons-only-ugly), spring 2018
+[Forest Demons - Not as Devilish as You'd Think](https://courses.helsinki.fi/not-actually-demons-only-ugly), spring 2019
 
-[Beginner Elvish I](https://courses.helsinki.fi/beginner-elvish-i), spring 2018
+[Beginner Elvish I](https://courses.helsinki.fi/beginner-elvish-i), spring 2019
 
 [Creaturology Seminar](https://courses.helsinki.fi/), autumn 2019, ongoing
 
@@ -44,6 +44,12 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Projects
 
+[Command line tools for linguists](https://github.com/v3r1a/cmdline-course/)
+
+The link above takes you to the GitHub repository I have used when completing the weekly assignments during the 
+command line course. The exercises mainly consisted of the GitHub basics and some document manipulation featuring 
+Project Gutenberg.
+
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[Should we be worried?](https://www.reddit.com/r/finlandConspiracy/) 
