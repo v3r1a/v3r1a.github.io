@@ -14,7 +14,7 @@ and the Pope.
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[LinkedIn](https://fi.linkedin.com/blizzard-creaturology), [GitHub](https://github.com/v3r1a)
 
 ## Contact
 
@@ -22,9 +22,25 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[Political Ideologies among Finnish Wood Elves](https://courses.helsinki.fi/wood-elf-politics), autumn 2018
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Field Course in Nordic Fairy Studies](https://courses.helsinki.fi/fairy-field-course), autumn 2018
+
+[Creaturology and Demonology - What's the Difference?](https://courses.helsinki.fi/creatures-demons-difference), autumn 2018
+
+[National Parks: Flora, Fauna, and Fairies](https://courses.helsinki.fi/national-park-fairies), spring 2019
+
+[Forest Demons - Not as Devilish as You'd Think](https://courses.helsinki.fi/not-actually-demons-only-ugly), spring 2018
+
+[Beginner Elvish I](https://courses.helsinki.fi/beginner-elvish-i), spring 2018
+
+[Creaturology Seminar](https://courses.helsinki.fi/), autumn 2019, ongoing
+
+[Of Mice and Djinn - What Really Happened During the Black Death](https://courses.helsinki.fi/of-mice-and-djinn), autumn 2019
+
+[Finnish Politics and Creaturology](https://courses.helsinki.fi/politics-creaturology), autumn 2019
+
+[Beginner Elvish II](https://courses.helsinki.fi/beginner-elvish-ii), autumn 2019
 
 ## Projects
 
