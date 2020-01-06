@@ -4,7 +4,13 @@ layout: default
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Welcome to my homepage! I am a person totally made up for the course 'Command line tools fot linguists' taught at the 
+University of Helsinki, Finland. As I am not real, I may claim that I study creaturology as my major. I specialise in 
+forest demons and fairyfolk. I am currently writing my Master's Thesis on the political conflicts among said species 
+in the national parks of Southern Finland.
+
+Being imaginary, I can also claim that my study is supported by George Clooney, Elves of the Southern Hemisphere, 
+and the Pope.
 
 ## Find me on
 
